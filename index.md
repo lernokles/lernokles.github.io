@@ -3,4 +3,4 @@
 Dies ist die Testseite für das Projekt "Lernokles". 
 
 ## Medienpädagogik
-Lerneinheit [[werbung]]
+Lerneinheit [Werbewirkung](../_posts/werbung.md)
