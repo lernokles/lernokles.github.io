@@ -3,4 +3,4 @@
 Dies ist die Testseite für das Projekt "Lernokles". 
 
 ## Medienpädagogik
-Lerneinheit [Werbewirkung](../_posts/werbung.md)
+<a href="https://lernokles.github.io/_posts/werbung.md">Lerneinheit Werbewirkung</a>
